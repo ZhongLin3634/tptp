@@ -1,0 +1,488 @@
+Complaint ID: 64ba7afbdc2ab
+Submission Date: 2023-07-21
+Type of Complaint: Issue
+Location: f
+Category: Issues or Incident
+Sub Category: Misconduct
+Subject: ds
+Description: as
+Complaint ID: 64ba7b4c9f620
+Submission Date: 2023-07-21
+Type of Complaint: Feedback
+Location: fs
+Category: Policies and Procedures
+Sub Category: Ethical Violations
+Subject: sd
+Description: sd
+Complaint ID: 64ba7b6f53116
+Submission Date: 2023-07-21
+Type of Complaint: Feedback
+Location: fs
+Category: Policies and Procedures
+Sub Category: Ethical Violations
+Subject: sd
+Description: as
+Complaint ID: 64ba829574d7f
+Submission Date: 2023-07-21
+Type of Complaint: Issue
+Location: A
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: AS
+Description: AS
+Complaint ID: 64ba829d95549
+Submission Date: 2023-07-21
+Type of Complaint: Issue
+Location: A
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: AS
+Description: AS
+Complaint ID: 64ba82a11e6b7
+Submission Date: 2023-07-21
+Type of Complaint: Issue
+Location: A
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: AS
+Description: AS
+Complaint ID: 64ba88949d6cf
+Submission Date: 2023-07-21
+Type of Complaint: Issue
+Location: A
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: AS
+Description: AS
+Complaint ID: 64baae3002f96
+Submission Date: 2023-07-21
+Type of Complaint: Issue
+Location: A
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: AS
+Description: AS
+Complaint ID: 64baae36c41f0
+Submission Date: 2023-07-21
+Type of Complaint: Issue
+Location: A
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: AS
+Description: AS
+Complaint ID: 64baae3a45486
+Submission Date: 2023-07-21
+Type of Complaint: Issue
+Location: Aas
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: AS
+Description: AS
+Complaint ID: 64baae710102c
+Submission Date: 2023-07-21
+Type of Complaint: Feedback
+Location: asas
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: as
+Description: as
+Complaint ID: 64baaeb41a45e
+Submission Date: 2023-07-21
+Type of Complaint: Complaint
+Location: as
+Category: Legal and Regulatory Compliance
+Sub Category: Environmental Concerns
+Subject: asas
+Description: as
+Complaint ID: 64bcc12696289
+Submission Date: 2023-07-23
+Type of Complaint: Issue
+Location: aaa
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: aaa
+Description: aaa
+Complaint ID: 64bcc179768bf
+Submission Date: 2023-07-23
+Type of Complaint: Issue
+Location: aaa
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: aaa
+Description: aaaa
+Complaint ID: 64bcc2ec0536e
+Submission Date: 2023-07-23
+Type of Complaint: Issue
+Location: asaasas
+Category: Issues or Incident
+Sub Category: Misconduct
+Subject: aaaasas
+Description: aaaaaaasdasdasd
+Complaint ID: 64c08071a836f
+Submission Date: 2023-07-26 02:09:53
+Type of Complaint: Issue
+Location: a
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: as
+Description: as
+Complaint ID: 64c083ff5a947
+Submission Date: 2023-07-26 02:25:03
+Type of Complaint: Issue
+Location: sss
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: as
+Description: as
+Complaint ID: 64c08428805ac
+Submission Date: 2023-07-26 02:25:44
+Type of Complaint: Issue
+Location: sss
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: as
+Description: as
+Complaint ID: 64c0842d521cd
+Submission Date: 2023-07-26 02:25:49
+Type of Complaint: Issue
+Location: sss
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: as
+Description: as
+Complaint ID: 64c084680c30b
+Submission Date: 2023-07-26 02:26:48
+Type of Complaint: Issue
+Location: sss
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: as
+Description: asasas
+Complaint ID: 64c084723acc1
+Submission Date: 2023-07-26 02:26:58
+Type of Complaint: Issue
+Location: A
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: a
+Description: a
+Complaint ID: 64c0848edae6b
+Submission Date: 2023-07-26 10:27:26
+Type of Complaint: Feedback
+Location: as
+Category: Policies and Procedures
+Sub Category: Code of Conduct
+Subject: ds
+Description: as
+Complaint ID: 64c08770cf4d8
+Submission Date: 2023-07-26 10:39:44
+Type of Complaint: Harassment
+Location: zzz
+Category: Employee Engagement
+Sub Category: Ethics and Integrity
+Subject: dsassa
+Description: aszzz
+Complaint ID: 64c08c48bb75f
+Submission Date: 2023-07-26 11:00:24
+Type of Complaint: Illegal Activity
+Location: ezl1
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: ezl1
+Description: ezl1
+Complaint ID: 64c08ebfe48a2
+Submission Date: 2023-07-26 11:10:55
+Type of Complaint: Issue
+Location: qazqaz
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: qazqaz
+Description: qazqaz
+Complaint ID: 64c096b59e9cc
+Submission Date: 2023-07-26 11:44:53
+Type of Complaint: Harassment
+Location: now
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: nownow
+Description: nownow
+Complaint ID: 64c097657cdbf
+Submission Date: 2023-07-26 11:47:49
+Type of Complaint: Issue
+Location: Hospital
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: HospitalSubject
+Description: DesHospital
+Complaint ID: 64c09a76b1c2a
+Submission Date: 2023-07-26 12:00:54
+Type of Complaint: Issue
+Location: NewTest
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: NewTest
+Description: NewTest
+Complaint ID: 64c0d83b826c0
+Submission Date: 2023-07-26 16:24:27
+Type of Complaint: Issue
+Location: HospitalABC
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: HOSPITAL
+Description: A complain on hospital
+Complaint ID: 64c0db949585c
+Submission Date: 2023-07-26 16:38:44
+Type of Complaint: Issue
+Location: HospitalABC
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: HOSPITAL
+Description: A complain on hospital
+Complaint ID: 64c0dcc584958
+Submission Date: 2023-07-26 14:43:49
+Type of Complaint: Feedback
+Location: HospitalABCaaa
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: HOSPITALaaa
+Description: A complain on hospitalaaa
+Complaint ID: 64c0dd5831edc
+Submission Date: 2023-07-26 14:46:16
+Type of Complaint: Feedback
+Location: HospitalABCaaa
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: HOSPITALaaa
+Description: A complain on hospitalaaa
+Complaint ID: 64c0de735cc6f
+Submission Date: 2023-07-26 14:50:59
+Type of Complaint: Feedback
+Location: HospitalABCaaa
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: HOSPITALaaa
+Description: A complain on hospitalaaa
+Complaint ID: 64c0df00ef49c
+Submission Date: 2023-07-26 14:53:20
+Type of Complaint: Feedback
+Location: Latest
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: Latest
+Description: Latest
+Complaint ID: APP-1690364694-884
+Submission Date: 2023-07-26 15:44:54
+Type of Complaint: Feedback
+Location: new
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: new
+Description: new
+Complaint ID: APP-2023-07-26 15:46:17-936
+Submission Date: 2023-07-26 15:46:17
+Type of Complaint: Feedback
+Location: new123
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: new
+Description: new
+Complaint ID: Cp-2023-07-26-465
+Submission Date: 2023-07-26 15:46:59
+Type of Complaint: Feedback
+Location: new123123
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: new
+Description: new
+Complaint ID: Cp-20230726-234
+Submission Date: 2023-07-26 15:47:12
+Type of Complaint: Feedback
+Location: new123123
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: new
+Description: new
+Complaint ID: Cp-20230726-002
+Submission Date: 2023-07-26 15:55:10
+Type of Complaint: Feedback
+Location: qazxswedc
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: new
+Description: new
+Complaint ID: Cp-20230726-003
+Submission Date: 2023-07-26 15:55:29
+Type of Complaint: Feedback
+Location: qazxswedcqazxsweddc
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: new
+Description: new
+Complaint ID: Cp-20230726-004
+Submission Date: 2023-07-26 16:15:53
+Type of Complaint: Issue
+Location: qqq
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: qqq
+Description: qqq
+Complaint ID: Cp-20230726-005
+Submission Date: 2023-07-26 16:15:58
+Type of Complaint: Issue
+Location: qqqaaa
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: qqq
+Description: qqq
+Complaint ID: Cp-20230726-006
+Submission Date: 2023-07-26 16:16:03
+Type of Complaint: Issue
+Location: aaa
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: qqq
+Description: qqq
+Complaint ID: Cp-20230726-007
+Submission Date: 2023-07-26 16:16:08
+Type of Complaint: Issue
+Location: aaazaza
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: qqq
+Description: qqq
+Complaint ID: Cp-20230726-008
+Submission Date: 2023-07-26 16:16:13
+Type of Complaint: Issue
+Location: azaza
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: qqq
+Description: qqq
+Complaint ID: Cp-20230726-009
+Submission Date: 2023-07-26 16:16:17
+Type of Complaint: Issue
+Location: zxcdsa
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: qqq
+Description: qqq
+Complaint ID: Cp-20230726-010
+Submission Date: 2023-07-26 16:16:23
+Type of Complaint: Issue
+Location: azazqqww
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: qqq
+Description: qqq
+Complaint ID: Cp-20230726-011
+Submission Date: 2023-07-26 16:16:30
+Type of Complaint: Issue
+Location: trying1
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: qqq
+Description: qqq
+Complaint ID: Cp-20230726-012
+Submission Date: 2023-07-26 16:16:35
+Type of Complaint: Issue
+Location: trying2
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: qqq
+Description: qqq
+Complaint ID: Cp-20230726-013
+Submission Date: 2023-07-26 16:16:42
+Type of Complaint: Issue
+Location: trying3
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: qqq
+Description: qqq
+Complaint ID: Cp-20230726-014
+Submission Date: 2023-07-26 16:16:45
+Type of Complaint: Issue
+Location: trying34
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: qqq
+Description: qqq
+Complaint ID: Cp-20230726-015
+Submission Date: 2023-07-26 16:16:49
+Type of Complaint: Issue
+Location: trying5
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: qqq
+Description: qqq
+Complaint ID: Cp-20230726-016
+Submission Date: 2023-07-26 16:16:52
+Type of Complaint: Issue
+Location: trying6
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: qqq
+Description: qqq
+Complaint ID: Cp-20230726-017
+Submission Date: 2023-07-26 16:22:24
+Type of Complaint: Dissolve
+Location: trying12345
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: trying123354
+Description: trying
+Complaint ID: Cp-20230726-018
+Submission Date: 2023-07-26 16:33:04
+Type of Complaint: Issue
+Location: asasa
+Category: Legal and Regulatory Compliance
+Sub Category: Compliance with Company Protection Laws
+Subject: asasasa
+Description: asasa
+Complaint ID: Cp-20230728-002
+Submission Date: 2023-07-28 12:52:15
+Type of Complaint: Issue
+Location: Now
+Category: Policies and Procedures
+Sub Category: Ethical Violations
+Subject: asd
+Description: asd
+Complaint ID: Cp-20230728-003
+Submission Date: 2023-07-28 12:52:20
+Type of Complaint: Issue
+Location: Now
+Category: Policies and Procedures
+Sub Category: Ethical Violations
+Subject: asd
+Description: asd
+Complaint ID: Cp-20230728-004
+Submission Date: 2023-07-28 12:52:57
+Type of Complaint: Issue
+Location: Now
+Category: Policies and Procedures
+Sub Category: Ethical Violations
+Subject: asd
+Description: asd
+Complaint ID: Cp-20230811-004
+Submission Date: 2023-08-11 09:07:11
+Type of Complaint: Issue
+Location: I am final version on 11082023
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: I am final version on 11082023
+Description: I am final version on 11082023
+Complaint ID: Cp-20230811-005
+Submission Date: 2023-08-11 09:07:15
+Type of Complaint: Issue
+Location: I am final version on 11082023
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: I am final version on 11082023
+Description: I am final version on 11082023
+Complaint ID: Cp-20230823-002
+Submission Date: 2023-08-23 08:48:27
+Type of Complaint: Issue
+Location: azaz
+Category: Issues or Incident
+Sub Category: Ethical Violations
+Subject: azaz
+Description: zazaz

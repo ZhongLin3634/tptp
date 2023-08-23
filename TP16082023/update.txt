@@ -1,0 +1,11 @@
+Now -23/7/2023
+1. index1.php is the complain form
+2. login.php can run and link it to the dashboard follwing by the settings
+3. Dashboard now will display the default result setting
+
+//login_process.php no used already
+//
+
+
+Now-28/7/2023
+index1.php using style1.css

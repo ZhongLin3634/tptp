@@ -1,0 +1,146 @@
+/* Reset some default styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    min-height: 100vh;
+}
+
+/* Sidebar */
+.sidebar {
+    background-color: #333;
+    color: #fff;
+    width: 250px;
+    padding: 20px;
+}
+
+.user-profile {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.user-profile img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.user-profile h6 {
+    margin: 10px;
+    font-size: 16px;
+}
+
+/* Content */
+.content {
+    flex: 1;
+    padding: 20px;
+}
+
+/* Adjusted Category Buttons */
+.category-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.category-button {
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.category-new {
+    background-color: #3498db;
+    color: #fff;
+}
+
+.category-in-progress {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.category-resolved {
+    background-color: #2ecc71;
+    color: #fff;
+}
+
+.category-button:hover {
+    background-color: #333;
+    color: #fff;
+}
+
+/* Adjusted Complaint Details */
+.complaint-details {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.complaint-details h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.complaint-details p {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+/* Adjusted Update Form */
+.update-form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.update-form label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.update-form textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    resize: vertical;
+}
+
+.update-form input[type="submit"] {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.update-form input[type="submit"]:hover {
+    background-color: #2980b9;
+}
+
+/* Adjusted Back Link */
+.back-link {
+    display: inline-block;
+    margin-top: 10px;
+    color: #3498db;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.back-link:hover {
+    text-decoration: underline;
+}

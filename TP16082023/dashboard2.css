@@ -1,0 +1,215 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0; /* Light gray background */
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    display: flex;
+    min-height: 100vh; /* Ensure the container fills the entire viewport height */
+  }
+  
+  /* Header */
+  header {
+    background-color: #3498db; /* Light blue background */
+    color: #fff;
+    padding: 15px;
+  }
+  
+  header h1 {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  /* Sidebar */
+  .sidebar {
+    background-color: #fff; /* White background for the sidebar */
+    color: #333; /* Dark text color */
+    width: 250px;
+    padding: 20px;
+  }
+  .sidebar a{
+    text-decoration: none;
+  }
+  
+  .user-profile {
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  
+  .user-profile img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  .user-profile h6 {
+    margin: 10px;
+    font-size: 16px;
+  }
+  
+  .user-profile h6:last-child {
+    font-weight: bold;
+  }
+  
+  /* Content */
+  .content {
+    flex: 1;
+    padding: 20px;
+  }
+  .content a{
+    text-decoration: none;
+
+  }
+  
+  .categories {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+  }
+  
+  .categories li {
+    flex: 1;
+    text-align: center;
+    padding: 15px;
+    cursor: pointer;
+    background-color: #3498db; /* Light blue background for active category */
+    border: 1px solid #3498db;
+    color: #fff; /* White text color for active category */
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  .categories li.active {
+    background-color: #fff; /* White background for inactive category */
+    color: #333; /* Dark text color for inactive category */
+  }
+  
+  .categories .spacing {
+    flex: 0.5;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ccc; /* 表格边框 */
+    margin-top: 20px;
+    background-color: #fff; /* 白色背景 */
+  }
+  
+  table th,
+  table td {
+    border: 1px solid #cccccc;
+    padding: 15px;
+    text-align: left;
+    font-size: 16px;
+  }
+  table th {
+    background-color: #3498db; /* Light blue background for table header */
+    color: #fff; /* White text color for table header */
+  }
+  table tr:nth-child(even) {
+    background-color: #f8f8f8; /* Light gray background for even rows */
+  }
+  table tr:hover {
+    background-color: #f2f2f2; /* Slightly darker background on hover */
+  }
+
+  
+  /* Pagination */
+  .pagination {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .pagination a,
+  .pagination span {
+    padding: 5px 10px;
+    text-decoration: none;
+    color: #333;
+    border: 1px solid #ccc;
+    margin: 0 5px;
+    font-size: 16px;
+  }
+  
+  .pagination .current-page {
+    background-color: #3498db; /* Light blue background for active page */
+    color: #fff; /* White text color for active page */
+  }
+  
+  /* Exit Button */
+  .exit-button {
+    display: block;
+    width: 100px;
+    margin: 20px auto;
+    padding: 10px 15px;
+    background-color: #3498db; /* Light blue background for exit button */
+    color: #fff; /* White text color for exit button */
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .exit-button:hover {
+    background-color: #2980b9; /* Darker shade on hover */
+    box-shadow: 0 0 10px rgba(52, 152, 219, 0.8); /* Add a subtle box shadow on hover */
+  }
+  
+  /* Add this style to highlight the active link */
+  .profile-link.active {
+    background-color: #007bff; /* Blue background for active link */
+    color: #fff; /* White text color for active link */
+  }
+  
+
+  /* Add this style for the box container */
+/* Add this style for the category buttons container */
+.category-buttons {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  /* Style for each category button */
+  .category-button {
+    border: none;
+    padding: 80px 240px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    text-decoration: none;
+    color: #333;
+    font-size:20px;
+  }
+  /* Remove underline from the links inside category buttons */
+.category-button a {
+    text-decoration: none;
+  }
+  
+  
+  /* Style for the "New" category button */
+  .category-new {
+    background-color: #3498db; /* Blue background for "New" */
+  }
+  
+  /* Style for the "In Progress" category button */
+  .category-in-progress {
+    background-color: #fff; /* White background for "In Progress" */
+  }
+  
+  /* Style for the "Resolved" category button */
+  .category-resolved {
+    background-color: #2ecc71; /* Green background for "Resolved" */
+  }
+  
+  /* Hover effect for the buttons */
+  .category-button:hover {
+    color: #fff;
+  }
+  
+  

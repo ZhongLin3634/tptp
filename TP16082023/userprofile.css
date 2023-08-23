@@ -1,0 +1,146 @@
+/* Reset some default styles */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Main container */
+.container {
+    display: flex;
+    min-height: 100vh;
+}
+
+/* Sidebar */
+.sidebar {
+    flex: 0 0 250px;
+    background-color: #37517e;
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+.avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.sidebar h2 {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.sidelink {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.sidelink.currentlink {
+    font-weight: bold;
+}
+.heading{
+    height:100px;
+}
+.attributeform {
+    background-color: #FFFCE9;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+    width: 800px; /* Set the form width to 100% */
+    box-sizing: border-box; /* Ensure padding and border are included in the width calculation */
+    left: 650px;
+    right:20px;
+    height: 650px;
+    position: absolute;
+    top:110px;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 300px;
+    margin-right: 5px;
+    left: 320px;
+    right:20px;
+    top:100px;
+    text-align: center;
+    height: 650px;
+    position: absolute;
+    background-color:#FFFCE9;
+    }
+
+/* Content */
+.content {
+    flex: 1;
+    padding: 20px;
+    width: calc(100% - 250px); /* Adjust the width by subtracting the sidebar width */
+    position:relative;
+    top:40px;
+    right:100px;
+}
+.attributeform h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.rows {
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.Attributes {
+    flex: 1;
+    margin-right: 10px;
+}
+
+.Attr {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+#Aboutme {
+    width: 100%;
+    height: 150px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    resize: vertical;
+}
+
+.button {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+#subbutton {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+#subbutton:hover {
+    background-color: #2980b9;
+}

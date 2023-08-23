@@ -1,0 +1,126 @@
+/* Reset some default styles to improve layout */
+body, html {
+height: 100%;
+margin: 0;
+padding: 0;
+}
+
+/* Main container */
+.container {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+background-color: #f1f1f1;
+}
+.register-complaint-header {
+margin-bottom: 20px;
+color: #37517e;
+font-size: 28px;
+font-weight: bold;
+text-align: center; /* Center the header */
+}
+
+.form-container {
+margin-top: 60px;
+width: 70%; /* Adjust the width of the form container */
+padding: 30px;
+border: 2px solid #37517e; /* Increase the border size */
+background-color: #fff;
+border-radius: 10px;
+font-family: Arial, sans-serif;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+}
+
+.form-container label {
+display: block;
+margin-bottom: 8px;
+color: #333;
+font-weight: bold;
+}
+
+.form-container input[type="text"],
+.form-container input[type="file"],
+.form-container textarea {
+width: 30%;
+padding: 12px;
+margin-bottom: 15px;
+border: 1px solid #ccc;
+border-radius: 5px;
+}
+
+.form-container textarea {
+resize: vertical;
+}
+
+.form-container input[type="submit"] {
+width: 100%;
+padding: 12px;
+border: none;
+border-radius: 5px;
+background-color: #37517e;
+color: #fff;
+cursor: pointer;
+font-weight: bold;
+letter-spacing: 1px;
+}
+
+.form-container input[type="submit"]:hover {
+background-color: #37517e;
+}
+
+/* Style for form input[type="file"] */
+.form-file-label {
+position: relative;
+overflow: hidden;
+display: inline-block;
+background-color: #37517e;
+color: #fff;
+padding: 10px;
+border-radius: 5px;
+cursor: pointer;
+font-weight: bold;
+letter-spacing: 1px;
+}
+
+.form-file-label input[type="file"] {
+position: absolute;
+left: 0;
+top: 0;
+width: 100%;
+height: 100%;
+opacity: 0;
+cursor: pointer;
+}
+
+/* Adjust login button style */
+.form-container input[type="submit"][value="Login"] {
+background-color: #555;
+}
+
+.form-container input[type="submit"][value="Login"]:hover {
+background-color: #333;
+}
+
+/* Responsive styles */
+@media screen and (max-width: 600px) {
+.form-container {
+width: 90%; /* Adjust width for smaller screens */
+padding: 20px;
+}
+}
+button{
+background-color: #37517e;
+border: none;
+color: white;
+padding: 16px 32px;
+text-align: center;
+font-size: 16px;
+margin: 4px 2px;
+opacity: 0.6;
+transition: 0.3s;
+display: inline-block;
+text-decoration: none;
+cursor: pointer;
+}
+button:hover {opacity: 1}

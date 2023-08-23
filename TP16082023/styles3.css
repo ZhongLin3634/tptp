@@ -1,0 +1,171 @@
+/* Reset some default styles to improve layout */
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Main container */
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f1f1f1;
+}
+
+.login-container h1 {
+    margin-bottom: 20px;
+    color: #007bff;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center; /* Center the heading */
+}
+
+.login-container form {
+    width: 400px; /* Adjust the width of the form container */
+    padding: 50px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+}
+
+.user-profile img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 20px; /* Center the image */
+}
+
+.login-container label {
+    display: block;
+    margin-bottom: 10px;
+    color: #333;
+    font-weight: bold;
+}
+
+.login-container input[type="text"],
+.login-container input[type="password"] {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px; /* Increase font size for better readability */
+}
+
+.login-container input[type="submit"] {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 16px; /* Increase font size for better readability */
+    transition: background-color 0.3s ease; /* Add smooth hover effect */
+}
+
+.login-container input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+/* Back button styles */
+.login-container button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ccc;
+    color: #000;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-right: 10px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Add smooth hover effect */
+}
+
+.login-container button:hover {
+    background-color: #ddd;
+}
+
+/* Register button styles */
+.login-container .register-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s ease; /* Add smooth hover effect */
+}
+
+.login-container .register-button:hover {
+    background-color: #2980b9;
+}
+
+/* Responsive styles */
+@media screen and (max-width: 600px) {
+    .login-container form {
+        width: 90%; /* Adjust width for smaller screens */
+    }
+}
+
+
+
+
+/*sidebar style*/
+/*sidebar css*/
+.sidebar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 10%;
+    height: 97%;
+    margin-left:2px;
+    margin-top:10px;
+    text-align:center;
+    background-color:rgb(200,240,100);/*change color of sidebar*/
+}
+
+/*link setting*/
+a.sidelink{
+    display: block;
+    width: 100%; 
+    color: black;
+    
+}
+a.currentlink {
+    pointer-events: none; 
+    user-select: none; 
+    color: black; 
+    width:100%;
+    text-decoration: none; 
+}
+#side_exit{
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+/* img setting*/
+.avatar {
+    width: 80%;
+    height: 20%;
+    margin-top:5%;
+    margin-left:10%;
+    border-radius: 50%; 
+    overflow: hidden; 
+    text-align: center;
+}
+.avatar img {
+    width: 100%;
+    height: 100%;
+}

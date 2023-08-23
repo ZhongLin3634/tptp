@@ -1,0 +1,7 @@
+1. index.php-let user choose to complain or login
+2. complain.php- proceed the complain and generate the result
+3. login.php-let user login according to the database id and password
+	-login link to dashboard.php
+	-can choose register.php
+4. Register.php- register with user name, id , password and own personal information
+5. Dashboard.php- add on sidedar to show some features
